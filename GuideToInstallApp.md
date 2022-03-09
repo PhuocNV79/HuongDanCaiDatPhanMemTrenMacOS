@@ -5,4 +5,6 @@ repo ni dùng để lưu lại các link hướng dẫn cài các phần mềm s
 
 - Cài đặt apache, php, mysql sử dụng link ni:
 https://xuanthulab.net/cai-dat-apache-php-mysql-de-phat-trien-ung-dung-web-tren-macos.html
+- Để cấu hình file httpd.config thì dùng link ni :
+http://thaotrinh.info/cai-dat-va-cau-hinh-apache-tren-macos/
 
