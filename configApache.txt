@@ -1,2 +1,0 @@
-config apache
-https://tech-cookbook.com/2021/10/25/how-to-setup-mamp-macos-apache-mysql-php-on-macos-12-monterey-2021/
