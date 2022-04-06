@@ -6,3 +6,5 @@ brew uninstall postgresql
 brew install postgresql@13
 brew services start postgresql@13
 brew link postgresql@13 --force
+
+https://www.youtube.com/watch?v=fGOsgMcTP2I
