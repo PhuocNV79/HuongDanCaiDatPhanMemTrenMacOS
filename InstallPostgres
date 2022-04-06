@@ -1,1 +1,8 @@
 https://gist.github.com/phortuin/2fe698b6c741fd84357cec84219c6667
+
+Dung nhung cau lenh nay oke:
+
+brew uninstall postgresql
+brew install postgresql@13
+brew services start postgresql@13
+brew link postgresql@13 --force
