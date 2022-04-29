@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=fGOsgMcTP2I
 ## Command line:
 1. psql --version
 2. psql postgres : truy cap vap postges
-3. \du : lists database roles
-4. asf
+3. => \du : lists database roles
+4. => \l : danh sach user
 5. psql -l (psql --list) : hien danh sach db, xong roi thoat
 6. CREATE ROLE abc WITH LOGIN PASSWORD 'abc123';
 7. ALTER ROLE abc CREATEDB;
