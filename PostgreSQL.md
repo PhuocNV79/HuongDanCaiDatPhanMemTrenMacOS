@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=fGOsgMcTP2I
 1. psql --version
 2. psql postgres : truy cap vap postges
   2.1 \du : lists database roles
+  2.2 asf
 3. psql -l (psql --list) : hien danh sach db, xong roi thoat
 4. CREATE ROLE abc WITH LOGIN PASSWORD 'abc123';
 5. 
