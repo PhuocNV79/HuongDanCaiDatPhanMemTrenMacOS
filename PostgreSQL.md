@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=fGOsgMcTP2I
 
 ## Command line: 
 1. psql --version
-### 2.  psql postgres : truy cap vap postges
+##### 2.  psql postgres : truy cap vap postges (muon dung postgres thi phai vao postgres truoc)
 3. => \du : lists database roles
 4. => \l : danh sach user
 5. psql -l (psql --list) : hien danh sach db, xong roi thoat
