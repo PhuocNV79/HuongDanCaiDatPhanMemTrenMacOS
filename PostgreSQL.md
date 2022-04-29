@@ -8,3 +8,11 @@ brew services start postgresql@13
 brew link postgresql@13 --force
 
 https://www.youtube.com/watch?v=fGOsgMcTP2I
+
+## Command line:
+1. psql --version
+2. psql postgres : truy cap vap postges
+  2.1 \du : lists database roles
+4. psql -l (psql --list) : hien danh sach db, xong roi thoat
+5. CREATE ROLE abc WITH LOGIN PASSWORD 'abc123';
+6. 
